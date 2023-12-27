@@ -1,7 +1,11 @@
 accelerate
 colorama
-bitsandbytes
+bitsandbytes==0.41.3.post2
 sentencepiece
 streamlit
-transformers_stream_generator
-cpm_kernels
+transformers_stream_generator==0.0.4
+cpm_kernels==1.0.11
+openai==0.28
+torch==2.0.0
+sse_starlette==1.8.2
+transformers==4.33.1
